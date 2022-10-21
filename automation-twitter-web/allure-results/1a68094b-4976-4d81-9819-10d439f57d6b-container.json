@@ -1,0 +1,1 @@
+{"uuid":"1a68094b-4976-4d81-9819-10d439f57d6b","name":"com.twitter.test.LoginTest","children":["7ddabac5-c40e-4a36-a463-7af0ebd127a6"],"befores":[{"name":"initMethod","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1659081079258,"stop":1659081092607}],"afters":[],"start":1659081079185,"stop":1659081122724}
