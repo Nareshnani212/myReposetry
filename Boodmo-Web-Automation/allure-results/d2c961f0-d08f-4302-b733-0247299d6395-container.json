@@ -1,0 +1,1 @@
+{"uuid":"d2c961f0-d08f-4302-b733-0247299d6395","name":"com.Boodmo.Web.Test.LoginTest","children":["3eac35b6-4ca3-41a9-819f-95de379d4f7d"],"befores":[{"name":"initClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1653237609852,"stop":1653237642040}],"afters":[],"links":[],"start":1653237609810,"stop":1653237664945}
